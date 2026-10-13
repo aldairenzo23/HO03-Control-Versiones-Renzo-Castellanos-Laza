@@ -1,0 +1,16 @@
+# Historial de cambios del proyecto
+
+## Registro 1: Creación del repositorio
+
+* **Fecha:** 2026-10-13
+* **Descripción:** Se creó el repositorio público en GitHub para organizar y almacenar los archivos del proyecto HO03 - Control de Versiones.
+
+## Registro 2: Creación del archivo README.md
+
+* **Fecha:** 2026-10-13
+* **Descripción:** Se incorporó el archivo README.md con el título del proyecto, la descripción del caso práctico, el objetivo del repositorio y los datos del estudiante.
+
+## Registro 3: Creación de la rama desarrollo
+
+* **Fecha:** 2026-10-13
+* **Descripción:** Se creó la rama desarrollo para realizar modificaciones de forma independiente y posteriormente integrarlas en la rama principal main.
